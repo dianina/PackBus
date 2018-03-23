@@ -65,3 +65,12 @@ Para fidelización y por su recurrente uso del servicio, ingresará a un sistema
 ![IMG](http://i63.tinypic.com/29e0z7o.jpg)
 
 Ver prototipo en https://marvelapp.com/7gicj0e
+
+**Herramientas utilizadas**
+Marvel
+
+**Autor**
+Diana Chaparro Castro
+https://github.com/dianina
+dianachcastro@yahoo.es
+Enero de 2018
