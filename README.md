@@ -66,8 +66,7 @@ Para fidelización y por su recurrente uso del servicio, ingresará a un sistema
 
 Ver prototipo en https://marvelapp.com/7gicj0e
 
-**Herramientas utilizadas**
-Marvel
+**Herramientas utilizadas**:  *Marvel App*
 
 **Autor**
 Diana Chaparro Castro
