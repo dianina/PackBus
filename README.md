@@ -23,11 +23,13 @@ Laboratoria
   
 PRIMER ACERCAMIENTO. BUSCANDO EL PROBLEMA
 ---
-1. El primer paso fue *unificar criterios e ideas* dentro de nuestro equipo de trabajo.
+1. El primer paso fue **unificar criterios e ideas** dentro de nuestro equipo de trabajo.
 
 ![IMG](http://i68.tinypic.com/9honk0.jpg)
 ![IMG](http://i66.tinypic.com/xyl2r.jpg)
 ![IMG](http://i63.tinypic.com/333fu9w.jpg)
 
-2.  Primeros hallazgos de la investigación (Research): 
+2.  **Primeros hallazgos de la investigación (Research):** 
 Nos centramos en mejorar la experiencia, para aquellos viajeros de bus frecuentes, que por motivo de trabajo o estudio, deben desplazarse a los alrededores de Santiago diariamente (quienes compran tiquetes por volúmen "talonarios").
+
+![IMG](http://i65.tinypic.com/2zxxv9e.jpg)
