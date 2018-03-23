@@ -51,7 +51,13 @@ Llenar el vacío del público objetivo, con un sistema en donde poder comparar e
 Para fidelización y por su recurrente uso del servicio, ingresará a un sistema de descuento y beneficios para viajeros frecuentes.
 
 
-**Sketches y Prototipado
+**Sketches y Prototipado**
+
 
 En papel
 ![IMG](http://i63.tinypic.com/kafm9x.jpg)
+
+
+Prototipo: 
+
+![IMG](http://i63.tinypic.com/29e0z7o.jpg)
