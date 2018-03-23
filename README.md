@@ -33,10 +33,19 @@ PRIMER ACERCAMIENTO. BUSCANDO EL PROBLEMA
 Nos centramos en mejorar la experiencia, para aquellos viajeros de bus frecuentes, que por motivo de trabajo o estudio, deben desplazarse a los alrededores de Santiago diariamente (quienes compran tiquetes por volúmen "talonarios").
 
 
-Se realizaron para esto, dos tipos de encuesta: una cerrada y una abierta-  La primera que nos entregó detalles de cantidades, más cuantitativa, y la segunda que nos arrojó expresiones, sentimientos de los usuarios.
+Se realizaron para esto, dos tipos de encuesta: una cerrada y una abierta.  La primera que nos entregó detalles de cantidades (se realizò vìa online a 23 personas,y la segunda fue directamente en el terminal.  Esta encuesta, ademàs de información importante, nos arrojó expresiones, sentimientos de los usuarios.
+
+![IMG](http://i63.tinypic.com/5e8sqo.jpg)
 
 **Encuesta cerrada**
 ![IMG](http://i65.tinypic.com/2zxxv9e.jpg)
 
-**Encuesta cerrada**
+**Encuesta abierta**
 ![IMG](http://i68.tinypic.com/16gwe29.jpg)
+
+
+OBJETIVOS
+-----
+
+Llenar el vacío del público objetivo, con un sistema en donde poder comparar en un sólo lugar (en línea),   la cantidad necesaria de pasajes recurrentes (con precio especial por volúmen ).  Esto permite pre-determinar sus viajes con antelación, y modificarlos en caso de ser necesario.
+Para fidelización y por su recurrente uso del servicio, ingresará a un sistema de descuento y beneficios para viajeros frecuentes.
