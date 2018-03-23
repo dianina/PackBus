@@ -68,7 +68,8 @@ Ver prototipo en https://marvelapp.com/7gicj0e
 
 **Herramientas utilizadas**:  *Marvel App*
 
-**Autor**
+**Autores**
+Karen Aedo -Lía Cubillos - Karen Conley `- Dubrasska Piñango - Mónica Ojeda
 Diana Chaparro Castro
 https://github.com/dianina
 dianachcastro@yahoo.es
