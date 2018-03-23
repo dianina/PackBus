@@ -54,12 +54,13 @@ Para fidelización y por su recurrente uso del servicio, ingresará a un sistema
 **Sketches y Prototipado**
 
 
-En papel:
+**En papel:**
+
 
 ![IMG](http://i63.tinypic.com/kafm9x.jpg)
 
 
-Prototipo: 
+**Prototipo:** 
 
 ![IMG](http://i63.tinypic.com/29e0z7o.jpg)
 
