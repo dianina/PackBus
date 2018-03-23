@@ -27,6 +27,7 @@ PRIMER ACERCAMIENTO. BUSCANDO EL PROBLEMA
 
 ![IMG](http://i68.tinypic.com/9honk0.jpg)
 ![IMG](http://i66.tinypic.com/xyl2r.jpg)
+![IMG](http://i63.tinypic.com/333fu9w.jpg)
 
 2.  Primeros hallazgos de la investigación (Research): 
 Nos centramos en mejorar la experiencia, para aquellos viajeros de bus frecuentes, que por motivo de trabajo o estudio, deben desplazarse a los alrededores de Santiago diariamente (quienes compran tiquetes por volúmen "talonarios").
