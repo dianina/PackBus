@@ -49,3 +49,9 @@ OBJETIVOS DE PACKBUS
 
 Llenar el vacío del público objetivo, con un sistema en donde poder comparar en un sólo lugar (en línea),   la cantidad necesaria de pasajes recurrentes (con precio especial por volúmen ).  Esto permite pre-determinar sus viajes con antelación, y modificarlos en caso de ser necesario.
 Para fidelización y por su recurrente uso del servicio, ingresará a un sistema de descuento y beneficios para viajeros frecuentes.
+
+
+**Sketches y Prototipado
+
+En papel
+![IMG](http://i63.tinypic.com/kafm9x.jpg)
