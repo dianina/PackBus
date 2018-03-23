@@ -32,4 +32,11 @@ PRIMER ACERCAMIENTO. BUSCANDO EL PROBLEMA
 2.  **Primeros hallazgos de la investigación (Research):** 
 Nos centramos en mejorar la experiencia, para aquellos viajeros de bus frecuentes, que por motivo de trabajo o estudio, deben desplazarse a los alrededores de Santiago diariamente (quienes compran tiquetes por volúmen "talonarios").
 
+
+Se realizaron para esto, dos tipos de encuesta: una cerrada y una abierta-  La primera que nos entregó detalles de cantidades, más cuantitativa, y la segunda que nos arrojó expresiones, sentimientos de los usuarios.
+
+**Encuesta cerrada**
 ![IMG](http://i65.tinypic.com/2zxxv9e.jpg)
+
+**Encuesta cerrada**
+![IMG](http://i68.tinypic.com/16gwe29.jpg)
