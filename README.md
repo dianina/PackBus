@@ -26,4 +26,3 @@ PRIMER ACERCAMIENTO. BUSCANDO EL PROBLEMA
 1. El primer paso fue unificar criterios e ideas dentro de nuestro equipo de trabajo.
 
 ![IMG](http://i68.tinypic.com/9honk0.jpg)
-![IMG](http://i66.tinypic.com/4lsjnc.jpg)
