@@ -1,6 +1,14 @@
+# PackBus
+
+App Móvil para la compra de paquetes de pasajes de bus. Compra online, si viajas frecuentemente en bus entre Santiago y localidades cercanas, accede a una tarifa especial y programa todos tus viajes de una sola vez.​ 
+
+![Banco_millennial_preview](http://i67.tinypic.com/rk91nc.jpg)
+
+## Desarrollado para [Laboratoria](http://laboratoria.la)
+
 Enero de 2018
 
-# PackBus
+
 
 ##### Contexto:
 Trabajo grupal solicitado por el Programa de estudios de Laboratoria, dentro de su ciclo de especialización en UX Design. Participé en todos los procesos del proyecto, tanto investigación,  como ejecución de sketches, testing y prototipos. ​ Enero de 2018
