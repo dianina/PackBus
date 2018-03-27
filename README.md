@@ -2,7 +2,8 @@
 
 App Móvil para la compra de paquetes de pasajes de bus. Compra online, si viajas frecuentemente en bus entre Santiago y localidades cercanas, accede a una tarifa especial y programa todos tus viajes de una sola vez.​ 
 
-![PackBus_preview](http://i67.tinypic.com/rk91nc.jpg)
+![packbus](https://user-images.githubusercontent.com/32283040/37944967-3b10e2e4-3154-11e8-90d1-8cb8474fa782.jpeg)
+
 
 ## Desarrollado para [Laboratoria](http://laboratoria.la)
 
